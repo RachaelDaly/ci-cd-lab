@@ -1,4 +1,4 @@
-# ci-cd-lab
+#  ci-cd-lab
 CI/CD Lab Activity for SWEN-356
 
 This lab focuses in on teaching the basics of Github Actions. You will utilize Github Actions to protect your `master` branch from code that breaks your tests. Basic familiarity with git is necessary. 
